@@ -1,5 +1,3 @@
-УРОВЕНЬ:
-
 int x = 0;
 int y = 0; 
 int z = 0;
@@ -40,4 +38,5 @@ SLEEP -- 5V
 GND -- GND
 X - A0
 Y -- A1
+
 Z -- A2 
