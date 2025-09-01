@@ -9,9 +9,11 @@ This is the pictures of the mudule:
 
 Connection right here:
 
-![MMA7361-wire](https://github.com/user-attachments/assets/b8b27009-149c-4b45-8364-474fe977d8e8)
 
-https://electropeak.com/learn/interfacing-mma7361-accelerometer-module-with-arduino/
+![MMA7361-wire](https://github.com/user-attachments/assets/baaa9ff3-c400-439d-95b8-b7263db24b90)
+
+
+For those people ho doesn't see the picture:
 
 SLEEP -- 5V
 
